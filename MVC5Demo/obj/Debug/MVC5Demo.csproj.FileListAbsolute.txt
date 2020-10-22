@@ -1,0 +1,234 @@
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\ApplicationInsights.config
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\roslyn\csc.exe
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\roslyn\System.Collections.Immutable.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\roslyn\System.Reflection.Metadata.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\roslyn\vbc.exe
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\roslyn\VBCSCompiler.exe
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\roslyn\VBCSCompiler.exe.config
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\MVC5Demo.dll.config
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\MVC5Demo.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\MVC5Demo.pdb
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Antlr3.Runtime.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.Agent.Intercept.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.DependencyCollector.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.Web.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.WindowsServer.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.ApplicationInsights.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Web.Infrastructure.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Newtonsoft.Json.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Net.Http.Formatting.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Helpers.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Http.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Http.WebHost.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Mvc.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Optimization.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Razor.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Deployment.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Razor.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\WebGrease.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.DependencyCollector.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.Web.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.WindowsServer.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.ApplicationInsights.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Helpers.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Mvc.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Optimization.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Razor.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Deployment.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Razor.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Antlr3.Runtime.pdb
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\Newtonsoft.Json.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Net.Http.Formatting.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Http.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Http.WebHost.xml
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Helpers.resources.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Mvc.resources.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Optimization.resources.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Razor.resources.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.WebPages.resources.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Http.resources.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.dll
+d:\william\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.pdb
+d:\William\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.csprojResolveAssemblyReference.cache
+d:\William\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.Resource1-US.resources
+d:\William\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.Resource1.resources
+d:\William\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.csproj.GenerateResource.Cache
+d:\William\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\EntityFramework.dll
+d:\William\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\EntityFramework.SqlServer.dll
+d:\William\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\EntityFramework.xml
+d:\William\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\EntityFramework.SqlServer.xml
+d:\William\documents\visual studio 2015\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\EntityFramework.resources.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\ApplicationInsights.config
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\roslyn\csc.exe
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\roslyn\System.Collections.Immutable.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\roslyn\System.Reflection.Metadata.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\roslyn\vbc.exe
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\roslyn\VBCSCompiler.exe
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\roslyn\VBCSCompiler.exe.config
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\MVC5Demo.dll.config
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\MVC5Demo.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\MVC5Demo.pdb
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Antlr3.Runtime.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\EntityFramework.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\EntityFramework.SqlServer.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.DependencyCollector.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.Web.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.WindowsServer.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.ApplicationInsights.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.Web.Infrastructure.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Newtonsoft.Json.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Net.Http.Formatting.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Helpers.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Http.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Http.WebHost.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Mvc.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Optimization.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Razor.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Deployment.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Razor.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\WebGrease.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\EntityFramework.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\EntityFramework.SqlServer.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.DependencyCollector.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.Web.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.AI.WindowsServer.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.ApplicationInsights.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Helpers.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Mvc.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Optimization.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Razor.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Deployment.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Razor.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Antlr3.Runtime.pdb
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\Newtonsoft.Json.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Net.Http.Formatting.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Http.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\System.Web.Http.WebHost.xml
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\EntityFramework.resources.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Http.resources.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.Resource1-US.resources
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.Resource1.resources
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.csproj.GenerateResource.cache
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.csproj.CoreCompileInputs.cache
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.csproj.CopyComplete
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.dll
+D:\William\Documents\Visual Studio 2019\Projects\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.pdb
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\ApplicationInsights.config
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\roslyn\csc.exe
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\roslyn\System.Collections.Immutable.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\roslyn\System.Reflection.Metadata.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\roslyn\vbc.exe
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\roslyn\VBCSCompiler.exe
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\roslyn\VBCSCompiler.exe.config
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\MVC5Demo.dll.config
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\MVC5Demo.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\MVC5Demo.pdb
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Antlr3.Runtime.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\EntityFramework.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\EntityFramework.SqlServer.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.AI.DependencyCollector.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.AI.Web.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.AI.WindowsServer.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.ApplicationInsights.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.Web.Infrastructure.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Newtonsoft.Json.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Net.Http.Formatting.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.Helpers.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.Http.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.Http.WebHost.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.Mvc.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.Optimization.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.Razor.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Deployment.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Razor.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\WebGrease.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\EntityFramework.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\EntityFramework.SqlServer.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.AI.DependencyCollector.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.AI.Web.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.AI.WindowsServer.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.ApplicationInsights.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.Helpers.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.Mvc.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.Optimization.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.Razor.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Deployment.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.WebPages.Razor.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Antlr3.Runtime.pdb
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\Newtonsoft.Json.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Net.Http.Formatting.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.Http.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\System.Web.Http.WebHost.xml
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\zh-Hant\EntityFramework.resources.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Http.resources.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.csprojAssemblyReference.cache
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.Resource1-US.resources
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.Resource1.resources
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.csproj.GenerateResource.cache
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.csproj.CoreCompileInputs.cache
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.csproj.CopyComplete
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.dll
+D:\William\Documents\GitHub\MVC5Demo\MVC5Demo\obj\Debug\MVC5Demo.pdb
